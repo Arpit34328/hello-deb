@@ -1,0 +1,17 @@
+# Compiled binary
+hello
+
+# Debian build directory (intermediate)
+hello_1.0-1/
+
+# Final .deb package (optional: include if you want to upload manually in release only)
+*.deb
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Backup/temporary files
+*~
+*.swp
+
